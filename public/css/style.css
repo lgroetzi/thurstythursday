@@ -22,7 +22,7 @@ h2{
 .content {
 	margin-right: 60px;
 }
-img {
+.logo {
 	width: 250px;
 }
 .full-bg {
@@ -42,10 +42,15 @@ img {
 	margin: 50px auto;
 }
 
+a, a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
 .play-button {
 	font-size: 30px;
 	background-color: #4d7aa9;
-	padding: 15px 40px 12px;
+	padding: 15px 46px 18px;
 	margin: 0 15px;
 	color: #FFF;
 	display: inline-block;
